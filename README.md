@@ -40,7 +40,6 @@ It supports:
  * All JavaScript Math constants like `PI()`, `E()`, `LN10()`, `LN2()`, `LOG10E()`, `LOG2E()`, `SQRT1_2()`, `SQRT2()`;
  * String operations like `&` (concatenation eq. `parser.parse('-(2&5)');` will return `-25`);
  * All excel formulas defined in [formula.js](https://github.com/handsontable/formula.js);
- * Relative and absolute cell coordinates like `A1`, `$A1`, `A$1`, `$A$1`;
  * Build-in variables like `TRUE`, `FALSE`, `NULL`
  * Custom variables;
  * Custom functions/formulas;
